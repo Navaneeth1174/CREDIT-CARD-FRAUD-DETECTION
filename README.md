@@ -32,8 +32,9 @@ positive class (frauds) accounts for only 0.172% of all
 transactions.
 
 The dataset is as follows:
-https://drive.google.com/file/d/1u_9Zr5cEZYSCn-YhG4Ym
-rct6oHcNKTNC/view?usp=sharing
+
+[https://drive.google.com/file/d/1u_9Zr5cEZYSCn-YhG4Ym
+rct6oHcNKTNC/view?usp=sharing](https://drive.google.com/drive/folders/1UTCKqFQvgVwo04qY5_TKxwBjPnZBSB_7?usp=sharing)
 
 The dataset comprises only numerical input variables
 resulting from a PCA transformation. Due to confidentiality
